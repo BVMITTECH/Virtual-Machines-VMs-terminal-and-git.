@@ -102,7 +102,6 @@ Okay! Now let us see how we can use git. You probably already guessed that it wo
 
 The ability to use Git is essential for this course and your future career. Yet, we are well aware that this was too much content to digest in too few minutes. This it not a problem at all, since git is not a tool you should know by heart. Usually, you just get the basics and ask your best friend, Google, for more advanced needs. So, go ahead, create a GitHub account and your first repo and play with it! In case you would like some further reading, [here is a link](https://www.atlassian.com/git/tutorials/setting-up-a-repository)!
 
-<img src="./img/vcs.jpg" style="zoom:33%;" />
 
 ### Conclusion
 
@@ -110,4 +109,4 @@ Before you go, it would be nice if you practice terminal and git on your own in 
 
 You must be really tenacious if you re still reading! 💪💪 Believe me, you need to award yourself. Go take a wal... ups that is not cool! Stay at home, and enjoy an episode of your favorite sit-com. **This is your homework!** I know I will watch one, writing this is not easy as well.. In case you wonder, I love Friends and The Office and go with the latter this time. 🏢
 
-![](./img/scott.jpg)
+
